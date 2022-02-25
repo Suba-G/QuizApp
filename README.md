@@ -1,3 +1,3 @@
 # QuizApp
-Quiz App developed by Kotlin.
 
+Quiz App developed by Kotlin.
